@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c366288-6ec0-4b6f-864d-d5ae1d261582" name="Changes" comment="added new solutions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/06-Loops-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Loops/06-Loops-Exercise.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +46,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.10_usd_to_bgn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15_vacation_expences.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.10_usd_to_bgn.executor": "Run",
+    "Python.15_vacation_expences.executor": "Run",
+    "Python.4_orders.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -79,7 +81,8 @@
       <workItem from="1767693290194" duration="68000" />
       <workItem from="1767947412092" duration="11124000" />
       <workItem from="1768066556912" duration="20000" />
-      <workItem from="1768235342301" duration="3696000" />
+      <workItem from="1768235342301" duration="4090000" />
+      <workItem from="1768550162907" duration="2370000" />
     </task>
     <task id="LOCAL-00001" summary="added new solutions">
       <option name="closed" value="true" />
@@ -113,5 +116,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Introduction_for_Data_Science$10_usd_to_bgn.coverage" NAME="10_usd_to_bgn Coverage Results" MODIFIED="1767690105725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data types, variables and simple operations" />
     <SUITE FILE_PATH="coverage/Python_Introduction_for_Data_Science$15_vacation_expences.coverage" NAME="15_vacation_expences Coverage Results" MODIFIED="1767951102050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional statements" />
+    <SUITE FILE_PATH="coverage/Python_Introduction_for_Data_Science$4_orders.coverage" NAME="4_orders Coverage Results" MODIFIED="1768551159358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
   </component>
 </project>
