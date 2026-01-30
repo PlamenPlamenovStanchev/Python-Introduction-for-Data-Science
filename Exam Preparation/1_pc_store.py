@@ -14,4 +14,4 @@ total_sum_in_dollars = discounted_cpu_price + discounted_video_card_price + ram_
 
 total_sum_in_leva = total_sum_in_dollars * DOLLARS_TO_LEVA
 
-print(f"Money needed - {total_sum_in_leva} leva.")
+print(f"Money needed - {total_sum_in_leva:.2f} leva.")

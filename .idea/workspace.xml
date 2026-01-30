@@ -45,27 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.10_usd_to_bgn.executor": "Run",
-    "Python.15_vacation_expences.executor": "Run",
-    "Python.1_pc_store.executor": "Run",
-    "Python.2_calculate_avarage_grade.executor": "Run",
-    "Python.2_trains.executor": "Run",
-    "Python.3_min_max_number_in_range.executor": "Run",
-    "Python.4_bakery_shop.executor": "Run",
-    "Python.4_orders.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.10_usd_to_bgn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15_vacation_expences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_pc_store.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_calculate_avarage_grade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_trains.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_min_max_number_in_range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_bakery_shop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_orders.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,7 +92,8 @@
       <workItem from="1769159353564" duration="2508000" />
       <workItem from="1769177326990" duration="173000" />
       <workItem from="1769495898644" duration="1423000" />
-      <workItem from="1769756039171" duration="2647000" />
+      <workItem from="1769756039171" duration="3435000" />
+      <workItem from="1769775727177" duration="392000" />
     </task>
     <task id="LOCAL-00001" summary="added new solutions">
       <option name="closed" value="true" />
@@ -130,7 +131,7 @@
     <SUITE FILE_PATH="coverage/Python_Introduction_for_Data_Science$1_pc_store.coverage" NAME="1_pc_store Coverage Results" MODIFIED="1769756846850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam Preparation" />
     <SUITE FILE_PATH="coverage/Python_Introduction_for_Data_Science$3_min_max_number_in_range.coverage" NAME="3_min_max_number_in_range Coverage Results" MODIFIED="1769758117347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam Preparation" />
     <SUITE FILE_PATH="coverage/Python_Introduction_for_Data_Science$15_vacation_expences.coverage" NAME="15_vacation_expences Coverage Results" MODIFIED="1767951102050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional statements" />
-    <SUITE FILE_PATH="coverage/Python_Introduction_for_Data_Science$4_bakery_shop.coverage" NAME="4_bakery_shop Coverage Results" MODIFIED="1769758703905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam Preparation" />
+    <SUITE FILE_PATH="coverage/Python_Introduction_for_Data_Science$4_bakery_shop.coverage" NAME="4_bakery_shop Coverage Results" MODIFIED="1769758733844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam Preparation" />
     <SUITE FILE_PATH="coverage/Python_Introduction_for_Data_Science$4_orders.coverage" NAME="4_orders Coverage Results" MODIFIED="1768551159358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
   </component>
 </project>
